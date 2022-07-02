@@ -20,7 +20,7 @@
 <br/>
 <br/>
  
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://example.com/)
 
 
 ## I'm a Dreamer & Developer!
@@ -39,18 +39,15 @@
 <p align ="center">
 <img alt="biyiemmy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=biyiemmy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=biyiemmy&">
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lfuitjjflt2tzaazgewuohyvdq&count=3&width=500)
-
 </p>
 
+---
+### Music
 
-
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lfuitjjflt2tzaazgewuohyvdq&count=1&width=500&align=center)
 
 
 ---
-
 ## <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center" width="28" /> Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
