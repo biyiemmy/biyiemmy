@@ -44,7 +44,7 @@
 ---
 ### Music
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lfuitjjflt2tzaazgewuohyvdq&count=1&width=500&align=center)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lfuitjjflt2tzaazgewuohyvdq&count=1&width=1000)
 
 
 ---
