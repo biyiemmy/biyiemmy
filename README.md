@@ -1,11 +1,27 @@
+<img align="right" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%" />
+
 #### Hi there👋
  
 ### I'm Adebiyi Emmanuel - [biyiemmy](https://link-url-here.org)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+<a href="https://www.linkedin.com/in/jordan-muthemba/">
+  <img align="left" alt="Jordan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/jordan_type/">
+  <img align="left" alt="Jordan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/jordantypeizo.type/">
+  <img align="left" alt="Jordan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://twitter.com/type_jordan/">
+  <img align="left" alt="Jordan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> 
+
 <br/>
+<br/>
+ 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+
 
 ## I'm a Dreamer, Developer!
 
@@ -25,7 +41,7 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=biyiemmy&">
 </p>
 
-[![biyiemmy's wakatime stats](https://github-readme-stats.vercel.app/api/biyiemmy?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center" width="28" />
