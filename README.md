@@ -23,7 +23,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 
 
-## I'm a Dreamer, Developer!
+## I'm a Dreamer & Developer!
 
 - 🔭 I’m building some side projects!
 - 🌱 I’m currently learning React-JS, Django, and Node-JS.
