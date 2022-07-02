@@ -41,7 +41,10 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=biyiemmy&">
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lfuitjjflt2tzaazgewuohyvdq&count=3&width=500)
+
+
 
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center" width="28" />
