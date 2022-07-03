@@ -4,17 +4,17 @@
  
 ### I'm Adebiyi Emmanuel - [biyiemmy](https://link-url-here.org)
 
-<a href="https://www.linkedin.com/in/jordan-muthemba/">
-  <img align="left" alt="Jordan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/adebiyiemmanuel/">
+  <img align="left" alt="Adebiyi Emmanuel's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/jordan_type/">
-  <img align="left" alt="Jordan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href=https://www.instagram.com/biyiemmy/">
+  <img align="left" alt="Adebiyi Emmanuel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/jordantypeizo.type/">
-  <img align="left" alt="Jordan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://web.facebook.com/adebiyi.emmanuel2">
+  <img align="left" alt="Adebiyi Emmanuel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://twitter.com/type_jordan/">
-  <img align="left" alt="Jordan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/biyiemmy/">
+  <img align="left" alt="Adebiyi Emmanuel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
 
 <br/>
@@ -23,7 +23,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://example.com/)
 
 
-## I'm a Dreamer & Developer!
+## I'm a Doer, Dreamer & Developer!
 
 - 🔭 I’m building some side projects!
 - 🌱 I’m currently learning React-JS, Django, and Node-JS.
