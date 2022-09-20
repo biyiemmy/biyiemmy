@@ -4,6 +4,8 @@
  
 ### I'm Adebiyi Emmanuel - [<>biyiemmy</>](https://portfolio-project-tau-five.vercel.app/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biyiemmy&label=Views&color=blue&style=plastic" alt="biyiemmy" /> </p>
+
 <a href="https://www.linkedin.com/in/adebiyiemmanuel/">
   <img align="left" alt="Adebiyi Emmanuel's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
