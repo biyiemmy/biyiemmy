@@ -40,6 +40,9 @@
 ### My Github Statistics 
 <p align ="center">
 <img alt="biyiemmy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=biyiemmy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<a href="https://github.com/biyiemmy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyiemmy&theme=nightowl&hide_langs_below=1" />
+</a>
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=biyiemmy&">
 </p>
 
