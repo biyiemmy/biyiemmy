@@ -1,9 +1,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%" />
 
-#### Hi there👋
- 
+#### Hi there👋 
 ### I'm Adebiyi Emmanuel - [<>biyiemmy</>](https://portfolio-project-tau-five.vercel.app/)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biyiemmy&label=Views&color=blue&style=plastic" alt="biyiemmy" /> </p>
 
 <a href="https://www.linkedin.com/in/adebiyiemmanuel/">
@@ -12,14 +10,10 @@
 <a href=https://www.instagram.com/biyiemmy/">
   <img align="left" alt="Adebiyi Emmanuel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://web.facebook.com/adebiyi.emmanuel2">
-  <img align="left" alt="Adebiyi Emmanuel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://twitter.com/biyiemmy/">
   <img align="left" alt="Adebiyi Emmanuel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
 
-<br/>
 <br/>
  
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-project-tau-five.vercel.app/)
@@ -28,21 +22,18 @@
 ## I'm a Doer, Dreamer & Developer!
 
 - 🔭 I’m building some side projects!
-- 🌱 I’m currently learning React-JS, Django, and Node-JS.
+- 🌱 I’m currently work with C, C#, Python, Javascript, React-JS, Django.
 - 👯 I’m open to collaboration with other developers.
-- 🥅 Goals: To build crazy solutions on the Blockchain.
+- 🥅 Goals: To build crazy solutions.
 - ⚡ Fun fact: I love to read, write, watch movies, and travel.
-- 💬 Ask me about anything - tech, and I will surely have an answer for you.
+- 💬 Ask me about anything - Software Fullstack Engineering.
 
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" />
 
-### My Github Statistics 
+### My Github Statistics                                                                                                    
 <p align ="center">
 <img alt="biyiemmy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=biyiemmy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-<a href="https://github.com/biyiemmy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyiemmy&theme=nightowl&hide_langs_below=1" />
-</a>
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=biyiemmy&">
 </p>
 
