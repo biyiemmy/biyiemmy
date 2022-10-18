@@ -1,5 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%" />
 
+
 #### Hi there👋 
 ### I'm Adebiyi Emmanuel - [<>biyiemmy</>](https://portfolio-project-tau-five.vercel.app/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biyiemmy&label=Views&color=blue&style=plastic" alt="biyiemmy" /> </p>
@@ -25,8 +26,8 @@
 ## I'm a Doer, Dreamer & Developer!
 
 - 🔭 I’m building some side projects!
-- 🌱 I’m currently work with C, C#, Python, Javascript, React-JS, Django.
-- 👯 I’m open to collaboration with other developers.
+- 🌱 I’m currently working with C, C#, Python, Javascript, React-JS, Django.
+- 👯 I’m open to collaboration with other developers also looking for internships, and job opportunities.
 - 🥅 Goals: To build crazy solutions.
 - ⚡ Fun fact: I love to read, write, watch movies, and travel.
 - 💬 Ask me about anything - Software Fullstack Engineering.
