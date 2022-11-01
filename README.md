@@ -16,11 +16,7 @@
 </a> 
 
 <br/>
-                                                                                                                                       
- 
-                                                                                                                                      
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-project-tau-five.vercel.app/)
-
+                                                                                                                                                                                                                                            
 
                                                                                                                                        
 ## I'm a Doer, Dreamer & Developer!
@@ -30,7 +26,8 @@
 - 👯 I’m open to collaboration with other developers also looking for internships, and job opportunities.
 - 🥅 Goals: To build crazy solutions.
 - ⚡ Fun fact: I love to read, write, watch movies, and travel.
-- 💬 Ask me about anything - Software Fullstack Engineering.
+- 💬 Ask me about anything and I will have an answer for you.
+- 🗽 Revamped my github - collated some repositories into one single repository.
 
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" />
