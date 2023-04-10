@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-
+<!--
 ---
 ## Music
 
@@ -42,7 +42,7 @@
 
 
 ---
-<!--
+
 ## <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center" width="28" /> Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
