@@ -25,7 +25,7 @@
 
 ---
 
-### My Github Statistics                                                                                                    
+## My Github Statistics                                                                                                    
 <table>
   <tr>
     <td><img alt="biyiemmy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=biyiemmy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
@@ -35,7 +35,7 @@
 
 
 ---
-### Music
+## Music
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lfuitjjflt2tzaazgewuohyvdq&count=1&width=1000)
 
