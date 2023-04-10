@@ -27,7 +27,6 @@
 - 🥅 Goals: To build crazy solutions.
 - ⚡ Fun fact: I love to read, write, watch movies, and travel.
 - 💬 Ask me about anything and I will have an answer for you.
-- 🗽 Revamped my github - collated some repositories into one single repository.
 
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" />
