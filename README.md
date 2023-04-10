@@ -29,10 +29,10 @@
 - 💬 Ask me about anything and I will have an answer for you.
 
 ---
-<img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" />
+<img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="left" width="28" />
 
 ### My Github Statistics                                                                                                    
-<p align ="center">
+<p align ="left">
 <img alt="biyiemmy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=biyiemmy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=biyiemmy&">
 </p>
@@ -55,11 +55,13 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+                 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+           
 
 ## 🛠 Tools & Preferences
 
