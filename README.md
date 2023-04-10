@@ -1,7 +1,10 @@
 <img align="right" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="30%" />
-
+<!--
 ## Hi there 👋 
 ## I am Adebiyi Emmanuel
+ -->
+                                                                                                                                       
+## I am Doer, Dreamer & Developer!
 <p style="display: flex; align-items: center;"> 
   <img src="https://komarev.com/ghpvc/?username=biyiemmy&label=Views&color=blue&style=plastic" alt="biyiemmy" /> 
 <a href="https://www.linkedin.com/in/adebiyiemmanuel/">
@@ -14,8 +17,6 @@
   <img align="left" alt="Adebiyi Emmanuel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </p>
-                                                                                                                                       
-## A Doer Dreamer & Developer!
 
 - 🔭 I’m building some side projects!
 - 🌱 Working with C, Python, Javascript, React-JS, Django.
