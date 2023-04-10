@@ -1,32 +1,27 @@
-<img align="right" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%" />
+<img align="right" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="29%" />
 
-
-#### Hi there👋 
-### I'm Adebiyi Emmanuel - [<>biyiemmy</>](https://portfolio-project-tau-five.vercel.app/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biyiemmy&label=Views&color=blue&style=plastic" alt="biyiemmy" /> </p>
-
+### Hi there 👋 
+## I'm Adebiyi Emmanuel [<>biyiemmy</>](https://github.com/biyiemmy/)
+<p style="display: flex; align-items: center;"> 
+  <img src="https://komarev.com/ghpvc/?username=biyiemmy&label=Views&color=blue&style=plastic" alt="biyiemmy" /> 
 <a href="https://www.linkedin.com/in/adebiyiemmanuel/">
-  <img align="left" alt="Adebiyi Emmanuel's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Adebiyi Emmanuel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href=https://www.instagram.com/biyiemmy/">
+<a href="https://www.instagram.com/biyiemmy/">
   <img align="left" alt="Adebiyi Emmanuel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/biyiemmy/">
-  <img align="left" alt="Adebiyi Emmanuel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> 
-
-<br/>
-                                                                                                                                                                                                                                            
-
+  <img align="left" alt="Adebiyi Emmanuel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+</p>
                                                                                                                                        
 ## I'm a Doer, Dreamer & Developer!
 
 - 🔭 I’m building some side projects!
-- 🌱 I’m currently working with C, Python, Javascript, React-JS, Django.
-- 👯 I’m open to collaboration with other developers also looking for internships, and job opportunities.
-- 🥅 Goals: To build crazy solutions.
+- 🌱 Working with C, Python, Javascript, React-JS, Django.
+- 👯 Open to collaboration, internships, and job opportunities.
+- 🥅 Goals: To build innovative solutions.
 - ⚡ Fun fact: I love to read, write, watch movies, and travel.
-- 💬 Ask me about anything and I will have an answer for you.
 
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="left" width="28" />
