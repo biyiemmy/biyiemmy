@@ -15,7 +15,7 @@
 </a>
 </p>
                                                                                                                                        
-## I'm a Doer, Dreamer & Developer!
+## A Doer, Dreamer & Developer!
 
 - 🔭 I’m building some side projects!
 - 🌱 Working with C, Python, Javascript, React-JS, Django.
@@ -27,10 +27,13 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="left" width="28" />
 
 ### My Github Statistics                                                                                                    
-<p align ="left">
-<img alt="biyiemmy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=biyiemmy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=biyiemmy&">
-</p>
+<table>
+  <tr>
+    <td><img alt="biyiemmy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=biyiemmy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=biyiemmy&"/></td>
+  </tr>
+</table>
+
 
 ---
 ### Music
