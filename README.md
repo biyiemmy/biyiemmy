@@ -24,7 +24,6 @@
 - ⚡ Fun fact: I love to read, write, watch movies, and travel.
 
 ---
-<img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="left" width="28" />
 
 ### My Github Statistics                                                                                                    
 <table>
