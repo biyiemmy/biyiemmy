@@ -19,7 +19,7 @@
 </p>
 
 - 🔭 I’m building some side projects!
-- 🌱 Working with C, Python, Javascript, React-JS, Django.
+- 🌱 Working with C, Python, Javascript, Typescript, React-JS, Django.
 - 👯 Open to collaboration, internships, and job opportunities.
 - 🥅 Goals: To build innovative solutions.
 - ⚡ Fun fact: I love to read, write, watch movies, and travel.
