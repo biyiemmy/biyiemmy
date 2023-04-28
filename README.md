@@ -4,7 +4,7 @@
 ## I am Adebiyi Emmanuel
  -->
                                                                                                                                        
-## I am Doer, Dreamer & Developer!
+## A Doer, Dreamer & Developer!
 <p style="display: flex; align-items: center;"> 
   <img src="https://komarev.com/ghpvc/?username=biyiemmy&label=Views&color=blue&style=plastic" alt="biyiemmy" /> 
 <a href="https://www.linkedin.com/in/adebiyiemmanuel/">
