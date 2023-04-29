@@ -35,6 +35,10 @@
 </table>
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biyiemmy&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/biyiemmy/github-readme-stats)
+
+
+
 ---
 ## Music
 
