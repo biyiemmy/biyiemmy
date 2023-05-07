@@ -18,7 +18,7 @@
 </a>
 </p>
 
-- 🔭 I’m building some side projects!
+- 🔭 Building some side projects!
 - 🌱 Working with C, Python, Javascript, Typescript, React-JS, Django.
 - 👯 Open to collaboration, internships, and job opportunities.
 - 🥅 Goals: To build innovative solutions.
