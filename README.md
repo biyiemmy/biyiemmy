@@ -3,7 +3,7 @@
 
 ## Hi there 👋 
 ## I am Adebiyi Emmanuel
- -->
+
                                                                                                                                        
 ## A Doer, Dreamer & Developer!
 <p style="display: flex; align-items: center;"> 
@@ -18,6 +18,8 @@
   <img align="left" alt="Adebiyi Emmanuel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </p>
+ -->
+
 
 - 🔭 Building some side projects!
 - 🌱 Working with C, Python, Javascript, Typescript, React-JS, Django.
