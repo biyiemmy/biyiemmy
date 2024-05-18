@@ -1,5 +1,6 @@
-<img align="right" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="30%" />
 <!--
+<img align="right" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="30%" />
+
 ## Hi there 👋 
 ## I am Adebiyi Emmanuel
  -->
@@ -13,7 +14,7 @@
 <a href="https://www.instagram.com/biyiemmy/">
   <img align="left" alt="Adebiyi Emmanuel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/biyiemmy/">
+<a href="https://x.com/biyiemmy/">
   <img align="left" alt="Adebiyi Emmanuel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </p>
@@ -26,6 +27,7 @@
 
 ---
 
+<!--
 ## My Github Statistics                                                                                                    
 <table>
   <tr>
@@ -34,7 +36,7 @@
   </tr>
 </table>
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biyiemmy&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/biyiemmy/github-readme-stats)
 
 
