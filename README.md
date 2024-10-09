@@ -23,8 +23,8 @@
 ## A Doer, Dreamer & Developer!
 
 - 🔭 Building some side projects!
-- 🌱 Working with C, Python, Javascript, Typescript, React-JS, Django.
-- 👯 Open to collaboration, internships, and job opportunities.
+- 🌱 Working with C, Python, Javascript, Typescript, React-JS, Node, Express etc.
+- 👯 Open to collaboration, and job opportunities.
 - 🥅 Goals: To build innovative solutions.
 - ⚡ Fun fact: I love to read, write, watch movies, and travel.
 
